@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <widget xmlns   = "http://www.w3.org/ns/widgets"
     xmlns:gap   = "http://phonegap.com/ns/1.0"
-    id          = "tw.avianjay"
+    id          = "tw.avianjay.chat"
     versionCode = "20302"
     version     = "2.0" >
 
 <!-- versionCode is optional and Android only -->
 
-  <name>AvianJay Example</name>
+  <name>AvianJay Chat</name>
 
   <description>
       AvianJay
